@@ -1,2 +1,2 @@
 # Hospital-Data-Analysis-Project
-<h3> color:"red"Unified Dashboard view of hospital data</h3>
+<h3>Unified Dashboard view of hospital data</h3>
